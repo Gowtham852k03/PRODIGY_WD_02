@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/PRODIGY_WD_02/static/css/main.7eb859b8.css",
-    "main.js": "/PRODIGY_WD_02/static/js/main.79bb7c73.js",
-    "static/js/453.bead9516.chunk.js": "/PRODIGY_WD_02/static/js/453.bead9516.chunk.js",
-    "index.html": "/PRODIGY_WD_02/index.html",
-    "main.7eb859b8.css.map": "/PRODIGY_WD_02/static/css/main.7eb859b8.css.map",
-    "main.79bb7c73.js.map": "/PRODIGY_WD_02/static/js/main.79bb7c73.js.map",
-    "453.bead9516.chunk.js.map": "/PRODIGY_WD_02/static/js/453.bead9516.chunk.js.map"
+    "main.css": "/iPHONE-MODEL-SITE/static/css/main.7eb859b8.css",
+    "main.js": "/iPHONE-MODEL-SITE/static/js/main.b7d63829.js",
+    "static/js/453.a20a21d6.chunk.js": "/iPHONE-MODEL-SITE/static/js/453.a20a21d6.chunk.js",
+    "index.html": "/iPHONE-MODEL-SITE/index.html",
+    "main.7eb859b8.css.map": "/iPHONE-MODEL-SITE/static/css/main.7eb859b8.css.map",
+    "main.b7d63829.js.map": "/iPHONE-MODEL-SITE/static/js/main.b7d63829.js.map",
+    "453.a20a21d6.chunk.js.map": "/iPHONE-MODEL-SITE/static/js/453.a20a21d6.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7eb859b8.css",
-    "static/js/main.79bb7c73.js"
+    "static/js/main.b7d63829.js"
   ]
 }
